@@ -34,11 +34,7 @@ Specializations: Software Engineering, Computer Graphics, Security, Networking
   - _Computer Graphics, C++ projects_
   - _Security, C projects_
   - _Networking, Python3 projects_
-- Requesting repos to be public
-  - _Endangerous_
-  - _Machi's Journey_
 - Creating personal website/blog
-- Creating [Armary], a 2D turn-based RPG using Unity Engine
 
 [(Back to top)](#table-of-contents)
 
@@ -51,6 +47,8 @@ Specializations: Software Engineering, Computer Graphics, Security, Networking
 | [Escape Room Editor] | 🌐 Web | React, Redux, Typescript, HTML5, CSS3, Material UI |
 | [Endangerous] | 🎮 Game | Unity Engine, C#, BandLab, Photon Networking |
 | [Cave Planter] | 🎮 Game | Unity Engine, C# |
+| [Machi's Journey] | 🎮 Game | Unity Engine, C# |
+| [Armary] | 🎮 Game | Unity Engine, C# (In progress) |
 | [Playlister] | 💡 Research | Python3, Numpy, Pandas, Pytorch, Scikit-Learn, TensorFlow, Matplotlib |
 | [OpenGL Projects] | 💡 Research | C++, OpenGL |
 | [Database Projects] | 💡 Research | PostgreSQL |
@@ -66,6 +64,8 @@ Specializations: Software Engineering, Computer Graphics, Security, Networking
 [Escape Room Editor]: https://github.com/nus-gdg/escape-room-editor
 [Endangerous]: https://uvents.nus.edu.sg/event/19th-steps/module/CS4350/project/3
 [Cave Planter]: https://github.com/nus-gdg/workshop1
+[Machi's Journey]: https://hjunleon.itch.io/machis-journey
+[Armary]: https://github.com/PotatoCombat/Armary
 [Water Project]: https://doi.org/10.1177/00139165211031197
 [Playlister]: https://github.com/madanalogy/playlister
 [OpenGL Projects]: https://github.com/PotatoCombat/OpenGL-projects
